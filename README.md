@@ -1,6 +1,8 @@
 # VirtualPiano
 A simple virtual piano, with limited keys, that has a screen that shows the output when the keys are clicked.
 
+*The Music_Note folder for the music note of the piano key. 
+
 1.Design Patterns that I used are:
    >singleton for creational since the class in my program has only one instance.
    >Facade for structural because I have a single class that represents an entire subsystem.
